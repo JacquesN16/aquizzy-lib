@@ -1,0 +1,10 @@
+// Shared interfaces for Aquizzy
+export * from './user'
+export * from './quiz'
+export * from './quiz-result'
+export * from './quiz-response'
+export * from './api'
+export * from './permissions'
+export * from './auth'
+export * from './share'
+export * from './profile'
